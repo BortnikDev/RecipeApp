@@ -1,6 +1,5 @@
 # Welcome to the Recipe App project repository!
 
-<details>
 In this project, I will be developing a recipe app using the latest features of the React ecosystem, including Hooks and Context API.
 
 With this app, you will be able to:
@@ -10,10 +9,11 @@ Search for specific recipes based on keywords or ingredients.
 Filter recipes based on various categories such as cuisine type, dietary restrictions, and cooking time.
 Favorite your preferred recipes and easily access them later.
 Track the preparation progress of recipes.
+[]
 ⚠️ Please note that the recipe data will be sourced from two distinct APIs, one for food and another for drinks.
-
+[]
 The app's layout is designed primarily for mobile devices, so all prototypes will be developed with smaller screens in mind.
-</details>
+
 
 # Recipe App
 
